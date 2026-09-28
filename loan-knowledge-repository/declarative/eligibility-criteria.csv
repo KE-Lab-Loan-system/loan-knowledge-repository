@@ -1,0 +1,14 @@
+Criterion,Loan Type,Requirement,Why It Matters,Knowledge Type
+Minimum age,"Home Loan, Personal Loan, Vehicle Loan, Business Loan, Gold Loan",Usually 21 years or above,Applicant must be able to legally sign a loan contract,Declarative
+Maximum age at loan end,"Home Loan, Personal Loan, Vehicle Loan, Business Loan",Around 60 (salaried) or 65 (self-employed) at the end of tenure,"Income may drop after retirement, so repayment becomes risky",Declarative
+Credit score,"Home Loan, Personal Loan, Vehicle Loan, Business Loan",Generally 750+ is preferred; below 600 is usually rejected,Shows how well the person repaid past loans,Declarative
+Stable income,"Home Loan, Personal Loan, Vehicle Loan",Regular monthly salary or business income,Loan is repaid from income,Declarative
+Minimum monthly income,Personal Loan,"Bank-specific; often around Rs 15,000 to Rs 25,000",Very low income leaves little to pay EMIs,Declarative
+Job stability,"Home Loan, Personal Loan, Vehicle Loan",Salaried: some months in current job and around 2 years total experience,Frequent job changes raise risk of income loss,Declarative
+Business vintage,"Business Loan, Home Loan",Self-employed: business running for about 2-3 years with ITRs,Proves the business is stable and earning,Declarative
+FOIR (EMI burden),"Home Loan, Personal Loan, Vehicle Loan, Business Loan",Total EMIs usually within 50-60% of monthly income,Person must have enough money left for living expenses,Declarative
+Collateral value (LTV),"Home Loan, Gold Loan",Loan amount cannot exceed a fixed % of the asset value (RBI limits),Protects the bank if the borrower defaults,Declarative
+Co-applicant,Education Loan,Parent or guardian usually required,"Student has no income yet, so co-applicant supports repayment",Declarative
+Admission proof,Education Loan,Admission letter from a recognised institution,Confirms the loan is for genuine studies,Declarative
+KYC completion,"Home Loan, Personal Loan, Education Loan, Vehicle Loan, Gold Loan, Business Loan","Valid identity and address proof, PAN",Required by RBI to verify identity and prevent fraud,Declarative
+No recent defaults,"Home Loan, Personal Loan, Vehicle Loan, Business Loan","No written-off, settled or seriously overdue accounts",Past defaults strongly predict future defaults,Declarative

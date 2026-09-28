@@ -1,0 +1,14 @@
+Document,Category,Required For,Notes
+PAN Card,KYC,"Home Loan, Personal Loan, Education Loan, Vehicle Loan, Gold Loan, Business Loan",Needed for identity and credit check
+Aadhaar Card,KYC,"Home Loan, Personal Loan, Education Loan, Vehicle Loan, Gold Loan, Business Loan",Identity and address proof
+Passport / Voter ID / Driving Licence,KYC,"Home Loan, Personal Loan, Education Loan, Vehicle Loan, Gold Loan, Business Loan",Alternative identity or address proof
+Passport-size photographs,KYC,"Home Loan, Personal Loan, Education Loan, Vehicle Loan, Gold Loan, Business Loan",For application form
+Salary slips (last 3 months),Income Proof,"Home Loan, Personal Loan, Vehicle Loan",For salaried applicants
+Bank statements (last 6 months),Income Proof,"Home Loan, Personal Loan, Vehicle Loan, Business Loan",Shows income flow and existing EMIs
+Form 16 / ITR (last 2-3 years),Income Proof,"Home Loan, Personal Loan, Business Loan",ITR is essential for self-employed
+Business registration / GST certificate,Business Proof,Business Loan,Proves the business exists
+"Property papers (sale deed, approved plan)",Property,Home Loan,Bank checks legal title of the property
+Admission letter and fee structure,Education,Education Loan,Proves admission and loan amount needed
+Academic mark sheets,Education,Education Loan,Past academic record
+Vehicle quotation / proforma invoice,Vehicle,Vehicle Loan,Shows vehicle price from dealer
+Gold jewellery,Collateral,Gold Loan,Checked for purity and weight by the lender

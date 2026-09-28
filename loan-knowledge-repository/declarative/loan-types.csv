@@ -1,0 +1,7 @@
+Loan Name,Purpose,Secured or Unsecured,Collateral Needed,Typical Tenure,Typical Borrower,Knowledge Type
+Home Loan,"Buy, build or renovate a house or flat",Secured,Yes - the property is mortgaged to the bank,Up to 30 years,Salaried or self-employed individuals,Declarative
+Personal Loan,"Any personal need (wedding, travel, medical bills, etc.)",Unsecured,No,1 to 5 years,Mostly salaried individuals with steady income,Declarative
+Education Loan,"Higher studies in India or abroad (fees, hostel, books)",Depends on amount,Usually only for larger amounts (limit set by bank),"5 to 15 years, repayment starts after course + moratorium","Students, with parent or guardian as co-applicant",Declarative
+Vehicle Loan,Buy a new or used car or two-wheeler,Secured,Yes - the vehicle is hypothecated to the bank,1 to 7 years,Salaried or self-employed individuals,Declarative
+Gold Loan,Quick short-term money against gold jewellery,Secured,Yes - gold is pledged with the lender,Usually up to 12 months,Anyone owning gold; credit score matters less,Declarative
+Business Loan,"Working capital, equipment or business expansion",Secured or Unsecured,Depends on amount and lender,1 to 7 years,"Self-employed individuals, MSMEs",Declarative
