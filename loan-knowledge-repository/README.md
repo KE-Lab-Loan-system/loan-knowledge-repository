@@ -1,6 +1,6 @@
 # 🏦 Loan Eligibility & Credit Risk Knowledge Repository
 
-A knowledge repository on how banks in India decide whether to give a loan. It supports the **Loan Eligibility & Credit Risk Assessment Expert System** (Knowledge Engineering Lab, IGDTUW).
+A knowledge repository on how banks in India decide whether to give a loan. It supports the **Loan Eligibility & Credit Risk Assessment Expert System**.
 
 **Access:** 🌐 Public (read-only). Internal decision rules and past cases are kept in a separate **private** repository with controlled access.
 
